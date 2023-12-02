@@ -3,7 +3,7 @@
 ## Hi there, I am Helal Uddin <br>
 [![My Portfolio](https://img.shields.io/badge/MyPortfolio-@HelalUddin-blue.svg?style=flat)](https://programmerhelal.com/)
 ## About Me
-I’m a Full-Stack WordPress Web Developer who is passionate about making error-free websites with 100% client satisfaction. I try to learn new things every day and love to share them with others. I like to solve real-world problems. I am strategic, goal-oriented, and always work with one end goal in mind. Over the years, I have built over 100 websites for my Clients. I take pride in achieving customer satisfaction through my quality work and excellent communication. I mostly work with WordPress, but I have knowledge of other subjects including Javascript, PHP & Social Media, etc.
+I’m a Full-Stack WordPress Web Developer who is passionate about making error-free websites with 100% client satisfaction. I try to learn new things every day and love to share them with others. I like to solve real-world problems. I am strategic, goal-oriented, and always work with one end goal in mind. Over the years, I have built over 100 websites for my Clients. I take pride in achieving customer satisfaction through my quality work and excellent communication. I mostly work with WordPress, but I have knowledge of other subjects including **Javascript, PHP & Social Media**, etc.
 
 ## Skills:
 ✔ WordPress<br>
