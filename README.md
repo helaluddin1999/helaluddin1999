@@ -15,5 +15,5 @@ I’m a Full-Stack WordPress Web Developer who is passionate about making error-
 ✔ Photoshop<br>
 ✔ Social Media
 ## Connect with me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/helaluddin1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/helal1998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/helaluddin1999)  
+:fa-facebook-f(https://www.facebook.com/https://www.facebook.com/helaluddin1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/helal1998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/helaluddin1999)  
 
